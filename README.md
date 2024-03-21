@@ -1,4 +1,4 @@
-![image](https://github.com/himani2853/Audio_amplifier/assets/117065953/5ead83b2-4861-4e9f-bc52-a40f3bbe4973)![image](https://github.com/himani2853/Audio_amplifier/assets/117065953/ad315118-fd5f-49c3-9ae6-93fa3676ca0d)# Audio_amplifier
+# Audio_amplifier
 An Audio Amplifier is an analog circuit that takes a small audio signal as input and increases its amplitude without changing its quality or waveform. It is usually used to amplify signal obtained from a microphone by boosting its power to a level required to be playable by a speaker.
 
 It is constructed using 4 stages:
